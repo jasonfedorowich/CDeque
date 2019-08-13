@@ -1,0 +1,7 @@
+﻿  deque.c
+C:\Users\jason\Documents\C Projects\Deque\Deque\deque.c(7): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\jason\Documents\C Projects\Deque\Deque\deque.c(12): warning C4047: '=': 'void **' differs in levels of indirection from 'int'
+C:\Users\jason\Documents\C Projects\Deque\Deque\deque.c(52): warning C4047: 'return': 'void *' differs in levels of indirection from 'int'
+C:\Users\jason\Documents\C Projects\Deque\Deque\deque.c(50): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\jason\Documents\C Projects\Deque\Deque\deque.c(66): warning C4013: 'free' undefined; assuming extern returning int
+  Deque.vcxproj -> C:\Users\jason\Documents\C Projects\Deque\Debug\Deque.exe
